@@ -10,8 +10,6 @@ end
 
 group :test do
   gem "rake"
+  gem "rspec"
   gem "rack-test"
-  gem "yajl-ruby"
-  gem "json"
-  gem "minitest"
 end
